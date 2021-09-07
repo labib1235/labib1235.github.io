@@ -1,81 +1,41 @@
-.border-btn {
-    border-radius: 30px;
-    border: 2px solid white;
-    background-color: black;
-    text-transform: capitalize;
-    padding: 12px 36px;
-    font-size: large;
-    text-decoration: none;
-    color: white;
-    margin-right: 100px;
-}
-
-.border-btn:hover{
-    color: cornsilk;
-    background-color: darkblue;
-}
-
 .jumborton{
-    background-color: #0e0524;
+    background-color: #000020;
+    height: 900px;
+    margin-bottom: 100px;
     width: 100%;
-    height: 850px;
 }
 
-.cradss{
-    width: 370px !important;
-    border: -1px solid #0e0524;
-    border-radius: 3px;
+.about{
+    background-color: black;
+    margin-top: 230px;
+    width: 100%;
+    border-radius: 15px;
+    height: 900px;
+    -webkit-box-shadow: 3px 2px 15px 0px #000000; 
+    box-shadow: 3px 2px 15px 0px #000000;
+    margin-bottom: 100px;
 }
 
-.cradss:hover{
-    background-color: rgb(208, 240, 229) !important;
-    -webkit-box-shadow: 1px 5px 7px 1px rgba(0,0,0,0.43); 
-    box-shadow: 1px 5px 7px 1px rgba(0,0,0,0.43);
+.picc{
+    border-radius: 15px; 
+    margin-left: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 840px;
+    width: 650px;
     
-}
-
-.imagehei{
-	height: 200px;
-}
-
-.boxshadow{
-	margin-bottom: 20px;
-}
-
-.boxshadow:hover{
-    -webkit-box-shadow: 1px 13px 23px -12px #000000; 
-box-shadow: 1px 13px 23px -12px #000000;
-}
-
-
-
-.caaa{
-    border: 1px solid lightgray !important;
-    background-color: blue, Accent1, Lighter 40% !;
-}
-
-.texxx{
-    margin-left: -10px !important;
-}
-.tert{
-    margin-top: -50px !important;
-    font-weight: bold;
-}
-
-.terr{
-    margin-top: -100px !important;
-    font-weight: bold;
 }
 
 .icon:hover{
     color: rgb(87, 87, 173) !important;
 }
 
+
 .texts{
     position: relative;
     padding-bottom: 10px;
-    font-size: 25px;
-    color: rgb(42, 42, 95);
+    font-size: 20px;
+    color: beige;
     text-decoration: none !important;
     margin-bottom: 20px; 
     font-family: 'Teko', sans-serif;
@@ -84,27 +44,45 @@ box-shadow: 1px 13px 23px -12px #000000;
 .texts:hover{
     color: rgb(87, 87, 173) !important;
 }
+.start{
+    margin-left: -350px;
+    color: coral; 
+    font-size: 15px; 
+    font-weight: bold;
+}
 
-
-.footerheight{
-	height: 400px;
-	width: 100%;
-	background-color:black;
-    
+.startone{
+    margin-left: -350px;
+    font-family: 'PT Serif', serif; 
+    color: aqua; 
+    font-size: 50px; 
     
 }
+
+.starttwo{
+    margin-left: -350px;
+    color: beige; font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.ssss{
+    margin-left: -350px;
+    color: coral;
+
+}
+
 
 .social{
     border: 1px solid rgb(87, 87, 173);
     padding: 11px;
     padding-left: 14px;
     padding-right: 13px;
-    border-radius: 5px;
+    border-radius: 3px;
     color: gray;
 }
 .socialone{
     border: 1px solid rgb(87, 87, 173);
-    border-radius: 5px;
+    border-radius: 3px;
     padding: 11px;
     padding-left: 12px;
     color: gray;
@@ -112,7 +90,7 @@ box-shadow: 1px 13px 23px -12px #000000;
 
 .socialtwo{
     border: 1px solid rgb(87, 87, 173);
-    border-radius: 5px;
+    border-radius: 3px;
     padding: 11px;
     color: gray;
 }
@@ -129,21 +107,62 @@ box-shadow: 1px 13px 23px -12px #000000;
     color: beige;
 }
 
-.hire-btn{
-    border-radius: 30px;
-    background-color: rgb(93, 93, 240);
-    text-transform: capitalize;
-    float: right;
-    padding: 12px 36px;
-    font-size: large;
-    text-decoration: none;
-    color: white;
-  
+.boll{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Karla', sans-serif;
+    
 }
 
-.humborton{
-    background-color: #0e0524;
+.rrrrr{
+    width: 180px !important;
+    border-radius: 5px !important;
+     
+}
+
+.cradss{
+    width: 370px !important;
+}
+
+.cradss:hover{
+    background-color: rgb(186, 245, 225) !important;
+    -webkit-box-shadow: 1px 5px 7px 1px rgba(0,0,0,0.43); 
+    box-shadow: 1px 5px 7px 1px rgba(0,0,0,0.43);
+}
+
+.imagehei{
+	height: 200px;
+}
+
+.boxshadow{
+	margin-bottom: 20px;
+}
+
+.boxshadow:hover{
+    -webkit-box-shadow: 1px 13px 23px -12px #000000; 
+box-shadow: 1px 13px 23px -12px #000000;
+}
+
+.footerheight{
+	height: 100px;
+	width: 100%;
+	background-color:black;
+    
+    
+}
+
+.terr{
+    margin-top: 100px;
+}
+
+.jumbo{
+    background-color: #000020;
+}
+.newAboutSection{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.newrow{
     width: 100%;
-    height: 550px;
 }
-
