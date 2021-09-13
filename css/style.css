@@ -12,7 +12,7 @@
 
 .border-btn:hover{
     color: cornsilk;
-    background-color: darkblue;
+    background-color: rgb(1, 1, 39);
 }
 
 .jumborton{
@@ -95,26 +95,46 @@ box-shadow: 1px 13px 23px -12px #000000;
 }
 
 .social{
-    border: 1px solid rgb(87, 87, 173);
-    padding: 11px;
-    padding-left: 14px;
-    padding-right: 13px;
+    background-color: #140c24;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 12px;
+    
     border-radius: 5px;
-    color: gray;
+    color: rgb(209, 210, 226);
 }
 .socialone{
-    border: 1px solid rgb(87, 87, 173);
+    background-color: #140c24;
+    width: 40px;
+    height: 40px;
     border-radius: 5px;
-    padding: 11px;
-    padding-left: 12px;
-    color: gray;
+    text-align: center;
+    padding-top: 12px;
+    
+    color: rgb(209, 210, 226);
 }
 
 .socialtwo{
-    border: 1px solid rgb(87, 87, 173);
+    background-color: #140c24;
+    width: 40px;
+    height: 40px;
     border-radius: 5px;
-    padding: 11px;
-    color: gray;
+    text-align: center;
+    padding-top: 12px;
+    color: rgb(209, 210, 226);
+}
+
+.socialthree{
+    background-color: #140c24;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 12px;
+    color: rgb(209, 210, 226);
+    margin-left: 20px;
+    
 }
 .social:hover{
     background-color:rgb(45, 45, 122);
@@ -126,20 +146,32 @@ box-shadow: 1px 13px 23px -12px #000000;
 }
 .socialone:hover{
     background-color:rgb(45, 45, 122);
-    color: beige;
+    color: beige; 
+}
+.socialthree:hover{
+    background-color:rgb(45, 45, 122);
+    color: beige; 
 }
 
 .hire-btn{
     border-radius: 30px;
-    background-color: rgb(93, 93, 240);
+    background-color: #0e0524;
     text-transform: capitalize;
     float: right;
     padding: 12px 36px;
     font-size: large;
     text-decoration: none;
     color: white;
-  
+    margin-top: 170px;
+    margin-left: 40px !important;
 }
+
+.hire-btn:hover{
+    transition: 3s;
+    color: white;
+}
+
+
 
 .humborton{
     background-color: #0e0524;
